@@ -18,3 +18,11 @@ Through the process of calculating summary statistics, drawing an inference from
 ### Project Overview
 
 A jewelry company wants to put in a bid to purchase a large set of diamonds, but is unsure how much it should bid. In this project, I used the results from a predictive model to make a recommendation on how much the jewelry company should bid for the diamonds.
+
+
+## Build Data Dashboards
+
+### Project Description
+
+In this project, I did created visualizations to reveal insights from Youtube Data from the US. I created data visualizations that tell a highlight patterns in the data set. 
+I used  Tableau to visualization work. 
